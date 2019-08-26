@@ -1,10 +1,44 @@
 {
   "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "title": "Administrator",
+      "subtitle": "Respect the role ;D"
+    },
+    {
+      "id": "1002",
+      "username": "user1",
+      "password": "user1",
+      "role": "user",
+      "title": "User #1",
+      "subtitle": "Life is short \o/"
+    },
+    {
+      "id": "1003",
+      "username": "user2",
+      "password": "user2",
+      "role": "user",
+      "title": "User #2",
+      "subtitle": "Leave me alone :("
+    }
   ],
   "tags": [
+    "fun", "joke", "sad", "happy", "news",
+    "fake", "angry", "persian", "poem", "story",
+    "sports", "football", "iran", "usa", "shiraz",
+    "tehran", "hafez", "park", "school", "learn",
+    "facts", "gossip", "war", "student", "love",
+    "life", "success"
   ],
   "posts": [
   ],
   "comments": [
   ],
+  "roles": [
+    "admin",
+    "user"
+  ]
 }
